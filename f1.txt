@@ -1,1 +1,3 @@
 f1
+
+local f1 = remote f1 
